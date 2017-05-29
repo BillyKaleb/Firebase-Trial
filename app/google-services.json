@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917630937019",
+    "firebase_url": "https://tesfiredb-ed32f.firebaseio.com",
+    "project_id": "tesfiredb-ed32f",
+    "storage_bucket": "tesfiredb-ed32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917630937019:android:bdac026a56b57a97",
+        "android_client_info": {
+          "package_name": "com.kuliah.firebase.tesfiredb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917630937019-7hkm0v7kbhgitud6tqo9ag749oc6801p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuliah.firebase.tesfiredb",
+            "certificate_hash": "470a2395bbf4584d1ff411f3291f74072376dd99"
+          }
+        },
+        {
+          "client_id": "917630937019-d3kv3v8btsu4rdavnogt4bnn8vcq5dnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkG9DnXtiWXJqPV8ZASifgpqHHlnN3DGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917630937019-d3kv3v8btsu4rdavnogt4bnn8vcq5dnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
